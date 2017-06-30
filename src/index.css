@@ -1,0 +1,20 @@
+body {
+  border: 2px solid black;
+  text-align: center;
+  background: #f5f5f5;
+  color: #333;
+  margin: 20px;
+  padding: 20px;
+
+  font-family: sans-serif;
+}
+.App-headererer {
+  border: 4px dotted;
+  border-radius: 20px; 
+  text-align: center;
+  background: #f5f5f5;
+  color: #333;
+  margin: 2px;
+  padding: 2px;
+
+}
